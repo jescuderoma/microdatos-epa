@@ -5,4 +5,4 @@ Los archivos originales se pueden descargar en este [link](https://www.ine.es/dy
 
 Este repositorio contiene los scripts que detallan la metodología empleada y los procesos ejecutados en R para el análisis de los datos, además de un informe creado con R Markdown donde se publican los principales datos por provincias.
 
-os encantaría leer sugerencias de mejoras de scripts y reportajes, publicaciones o papers que tengan como fuente original estos datos. Para todo ello, puedes contactar con [datos@elconfidencial.com](mailto:datos@elconfidencial.com).
+os encantaría leer sugerencias de mejoras de scripts y reportajes, publicaciones o papers que tengan como fuente original estos datos. Para todo ello, puedes contactar con **[datos@elconfidencial.com](mailto:datos@elconfidencial.com)**.
